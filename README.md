@@ -8,5 +8,5 @@ When you first run it:
 4. Press Ctrl+C to stop the script
 
 ## You can adjust these parameters in the code:
-> Change the cooldown value to adjust time between alerts
-> Change the sound_path if you want to use a different alert sound
+- Change the cooldown value to adjust time between alerts
+- Change the sound_path if you want to use a different alert sound
